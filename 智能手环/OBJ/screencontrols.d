@@ -1,0 +1,17 @@
+..\obj\screencontrols.o: ..\TASK\screenControls.c
+..\obj\screencontrols.o: ..\TASK\inc\screenControls.h
+..\obj\screencontrols.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\screencontrols.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\screencontrols.o: ..\FREERTOS\include\FreeRTOS.h
+..\obj\screencontrols.o: E:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\screencontrols.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\screencontrols.o: ..\FREERTOS\include\FreeRTOSConfig.h
+..\obj\screencontrols.o: ..\FREERTOS\include\projdefs.h
+..\obj\screencontrols.o: ..\FREERTOS\include\portable.h
+..\obj\screencontrols.o: ..\FREERTOS\include\deprecated_definitions.h
+..\obj\screencontrols.o: ..\FREERTOS\port\portmacro.h
+..\obj\screencontrols.o: ..\FREERTOS\include\mpu_wrappers.h
+..\obj\screencontrols.o: ..\FREERTOS\include\task.h
+..\obj\screencontrols.o: ..\FREERTOS\include\list.h
+..\obj\screencontrols.o: ..\FREERTOS\include\event_groups.h
+..\obj\screencontrols.o: ..\FREERTOS\include\timers.h

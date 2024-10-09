@@ -1,0 +1,6 @@
+
+   301  MCU
+1、GND->GND
+2、VIN->3.3
+3、SDA->SCL
+4、SCL->SDA

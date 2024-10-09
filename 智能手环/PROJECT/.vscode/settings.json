@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "includes.h": "c",
+        "queue.h": "c",
+        "semphr.h": "c",
+        "lv_port_indev.h": "c",
+        "usart.h": "c",
+        "stm32f4xx.h": "c",
+        "sys.h": "c",
+        "lvgl.h": "c",
+        "max301.h": "c",
+        "stdbool.h": "c",
+        "freertos.h": "c",
+        "bluetoothtask.h": "c",
+        "max30102.h": "c",
+        "screencontrols.h": "c",
+        "runmodetimer.h": "c",
+        "inv_mpu.h": "c",
+        "string.h": "c",
+        "step.h": "c",
+        "task.h": "c",
+        "detectionangle.h": "c",
+        "temhum.h": "c",
+        "dht11.h": "c",
+        "ui_helpers.h": "c"
+    }
+}
